@@ -24,9 +24,9 @@ int main(int argc, char **argv)
 	
 	
 	p = &compteur;
-	printf("\nStep 4) p = &compteur; \n");
-	printf("Step 4) Value P %d\n ", p);
-	printf("Step 4) Address P %d\n ", &p);
-	printf("Step 4) Value *P %d\n ", *p);
+	printf("\nStep 5) p = &compteur; \n");
+	printf("Step 5) Value P %d\n ", p);
+	printf("Step 5) Address P %d\n ", &p);
+	printf("Step 5) Value *P %d\n ", *p);
 	
 }
