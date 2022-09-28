@@ -13,3 +13,5 @@ git pull
 ## Info
 
 Get GitHubPro https://education.github.com/ 
+
+GitHub Education https://education.github.com/students
