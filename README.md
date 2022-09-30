@@ -3,18 +3,24 @@
 
 ### Init project
 
+```
 git clone https://github.com/UPHF/Algo3_202223/
+```
+
 
 ## Push the changes
 
+```
 git add <exo_X.c>
 git commit -m "New version of exo X: I added a pointer [...]"
 git push
+```
 
 ## Download the new files
 
+```
 git pull
-
+```
 
 ## Info
 
