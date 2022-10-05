@@ -12,12 +12,18 @@ int sumIterative(int myTab[], int size){
 }
 
 int sumRecursive(int myTab[], int i, int size){
-	
+	printf("In step i=%d \n", i);
 	if (i== size -1){
+		printf("In Stop condition\n");
 		return myTab[i];
 	}
 	else{
-		return  myTab[i] + sumRecursive(myTab, i+1, size );
+		printf("Call recursive: i=%d: \n", i);
+		int resultRecursiveCall = sumRecursive(myTab, i+1, size );
+		int partialResult =   myTab[i] + resultRecursiveCall;
+		
+		printf("Coming Back step i=%d: t[i] + sumRecursive(%d, %d)  = %d \n", i,i,N-1, partialResult );
+		return partialResult;
 	}
 }
 
