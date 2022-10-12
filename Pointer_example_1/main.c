@@ -29,4 +29,11 @@ int main(int argc, char **argv)
 	printf("Step 5) Address P %d\n ", &p);
 	printf("Step 5) Value *P %d\n ", *p);
 	
+	printf("\nStep 6) Increment Compteur using P \n");
+	printf("Step 6) Before Increment Compteur %d\n ", compteur);
+	(*p) = (*p) + 1;
+	printf("Step 6) After Increment Compteur %d\n ", compteur);
+	
+	
+	
 }
