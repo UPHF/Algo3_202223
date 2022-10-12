@@ -48,6 +48,7 @@ GitHub Education https://education.github.com/students
 ### Agenda
 
 - CM: Tri (Sort)
+- [Challenge 2](https://github.com/UPHF/Algo3_202223/issues/81) 
 - TD4: [TD4-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TDs/TD4-ALGO3-DEUSTIOSI2.pdf)
 
 
