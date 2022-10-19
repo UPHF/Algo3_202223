@@ -37,7 +37,7 @@ GitHub Education https://education.github.com/students
 
 - TD 2:  [TD2-ALGO3-DEUSTIOSI2.pdf](https://github.com/UPHF/Algo3_202223/files/9664519/TD2-ALGO3-DEUSTIOSI2.pdf)
 
-### Agenda 5-9 
+### Agenda 5-10 
 
 - CM : Recursivité
 - Exo fin CM.
@@ -45,10 +45,12 @@ GitHub Education https://education.github.com/students
 - Challenge 1: https://github.com/UPHF/Algo3_202223/issues/63
 - TD 3: [TD3-ALGO3-DEUSTIOSI2.pdf](https://github.com/UPHF/Algo3_202223/files/9715022/TD3-ALGO3-DEUSTIOSI2.pdf)
 
-### Agenda
+### Agenda 12-10
 
 - CM: Tri (Sort)
 - [Challenge 2](https://github.com/UPHF/Algo3_202223/issues/81) 
 - TD4: [TD4-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TDs/TD4-ALGO3-DEUSTIOSI2.pdf)
 
-
+### Agenga 19-10
+- CM: Files
+-TD5: [TD5-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TDs/TD4-ALGO3-DEUSTIOSI2.pdf)
