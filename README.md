@@ -51,7 +51,10 @@ GitHub Education https://education.github.com/students
 - [Challenge 2](https://github.com/UPHF/Algo3_202223/issues/81) 
 - TD4: [TD4-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TDs/TD4-ALGO3-DEUSTIOSI2.pdf)
 
-### Agenga 19-10
+### Agenda 19-10
 - CM: Files
 - Exemple Iterative vs Recursive
 - TD5: [TD5-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TDs/TD5-ALGO3-DEUSTIOSI2.pdf)
+
+### Agenda 9-11
+- TP 1: [TP1-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TP/TP1-ALGO3-DEUSTIOSI2.pdf)
