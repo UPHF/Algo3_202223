@@ -60,5 +60,6 @@ GitHub Education https://education.github.com/students
 - TP 1: [TP1-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TP/TP1-ALGO3-DEUSTIOSI2.pdf)
 
 ### Agenda 15-11 (TD)
-
+- TD 6: [TD6-ALGO3-DEUSTIOSI2](https://github.com/UPHF/Algo3_202223/blob/main/TDs/TD6-ALGO3-DEUSTIOSI2.pdf)
 - Exemple algorithm `fusion`
+
