@@ -65,3 +65,6 @@ GitHub Education https://education.github.com/students
 
 ## Agenda 16-11 (TP)
 - TP 2: [TP2-ALGO3](https://github.com/UPHF/Algo3_202223/blob/main/TP/TP2-ALGO3.pdf)
+
+## Agenda 23-11 (TP)
+- TP 3: [TP3-Algo3](https://github.com/UPHF/Algo3_202223/blob/main/TP/TP3-ALGO3-DEUSTIOSI2.pdf)
