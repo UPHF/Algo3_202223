@@ -7,6 +7,43 @@
 git clone https://github.com/UPHF/Algo3_202223/
 ```
 
+## Notes 2022-2023
+
+#### Les étudiants qui ont réussi le semestre (notes CM + TD) et qui ne doivent pas passer l'examen sont :
+
+- BALDACCHINO	Clement
+- BENBEKHTI	Yassin
+- BOITEL	Alexis
+- BURY	Frederic
+- CORDELOIS	Cyril
+- DELHOUTE	Clara
+- DESTREBECQ	Clara
+- FLORENT Thomas	
+- GRATTEPANCHE	Axel
+- IKHLEF	Naima
+- LOGEROT	Lea
+- MAJCHRZAK	Louis
+- MARTEL	Djimmy
+- MENSION	Olivier
+- TOPART	Romain
+- VAJDOVCIC	Arthur
+- VANDENHENDE	Romain
+
+#### Les étudiants qui n'ont pas réussi le semestre (grades CM + TD) et qui doivent passer l'examen sont :
+
+- BOSSU	Sami
+- DELHAIE	Terry
+- DEROUBAIX	Clement
+- DUBUQUOY	Martin
+- PAUCOT	Enzo
+- PEREIRA DE REZENDE	Donovan
+- TAKI	Roza
+
+
+
+
+
+
 
 ## Push the changes
 
